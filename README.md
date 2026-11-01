@@ -1,1 +1,1 @@
-# planet-devastation-csa-0368
+# Planetary Devastation (Computer Science Association Task for AI/ML Vertical)
